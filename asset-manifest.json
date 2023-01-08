@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPhoneGuide/static/css/main.ae1c4f23.css",
+    "main.js": "/ReactPhoneGuide/static/js/main.146012e4.js",
+    "index.html": "/ReactPhoneGuide/index.html",
+    "main.ae1c4f23.css.map": "/ReactPhoneGuide/static/css/main.ae1c4f23.css.map",
+    "main.146012e4.js.map": "/ReactPhoneGuide/static/js/main.146012e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1c4f23.css",
+    "static/js/main.146012e4.js"
+  ]
+}

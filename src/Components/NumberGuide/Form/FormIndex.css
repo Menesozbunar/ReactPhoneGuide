@@ -1,0 +1,22 @@
+
+.NameInput{
+    margin: 5px 0;
+}
+button{
+margin-top: 5px;
+font-size: 15px;
+  background-color: #EAE0DA;
+  padding: 8px;
+  border: 1px solid;
+  border-color:#EAE0DA ;
+  border-radius: 5px;
+}
+.Btn{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: #F7F5EB;
+    
+}
